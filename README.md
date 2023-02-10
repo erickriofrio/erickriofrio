@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Riofrio</h1>
 <h3 align="center">A Full Stack developer from Ecuador :ecuador: (living in Italy :it:)</h3>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **my Pesonal Portfolio** and some **Private Projects**
 
-- 🌱 I’m currently learning **Unreal Engine 5, C++, ReactJS, NextJs, NestJs, Solidity**
+- 🌱 I’m currently learning **ReactJS, NextJs 13, NestJs, Flutter**
 
-- 📫 How to reach me **96erick@live.it**
+- 📫 How to reach me **erick.rio.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
