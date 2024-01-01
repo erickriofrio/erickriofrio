@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Pesonal Portfolio** and some **Private Projects**
 
-- 🌱 I’m currently learning **ReactJS, NextJs 13, NestJs, Flutter**
+- 🌱 I’m currently learning ** Flutter, Angular 17, NestJs, ReactJS **
 
 - 📫 How to reach me **erick.rio.dev@gmail.com**
 
